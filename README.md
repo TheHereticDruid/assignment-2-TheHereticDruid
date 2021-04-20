@@ -17,3 +17,5 @@ If you want to see the notebook as a slide show use the following instruction in
 ### Lab session
 
 The lab session is [here](instructions_lab_w2.md)
+
+A copy of my second assignment for the ML module, done by me
